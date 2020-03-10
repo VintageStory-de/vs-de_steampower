@@ -1,0 +1,12 @@
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\obj\Debug\VSExampleMods.csprojResolveAssemblyReference.cache
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\bin\Debug\VSExampleMods.dll
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\bin\Debug\VSExampleMods.pdb
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\bin\Debug\VSSurvivalMod.dll
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\bin\Debug\VSCreativeMod.dll
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\obj\Debug\VSExampleMods.dll
+C:\Users\Matth\Documents\visual studio 2015\Projects\MyMods\vsmodexamples.git\obj\Debug\VSExampleMods.pdb
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSExampleMods.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\bin\Debug\VSExampleMods.pdb
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSExampleMods.csprojResolveAssemblyReference.cache
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSExampleMods.dll
+C:\Users\Matth\Documents\Programmierung\Vintage Story\vsmodtemplate\obj\Debug\VSExampleMods.pdb
